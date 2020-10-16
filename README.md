@@ -9,7 +9,7 @@ I'm a Full Stack developer with a focus on backend with Node.
 ### My Skills
 
 Backend - Node.js ¥ Knex.js ¥ PostgreSQL </br>
-Frontend - React.js ¥ useContext ¥ Redux ¥ LessCSS / SCSS ¥ CSS ¥ HTML </br>
+Frontend - React.js ¥ React Router ¥ useContext ¥ Redux ¥ LessCSS / SCSS ¥ CSS ¥ HTML </br>
 Other - JavaScript ¥ Git / Github ¥ 
 
 <!--
