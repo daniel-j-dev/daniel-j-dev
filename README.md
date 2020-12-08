@@ -1,6 +1,6 @@
 ### Welcome
 
-I'm a Backend Developer with a focus on Node.js
+I'm a Full Stack Developer who wants to learn more technologies.
 
 - 🔭 Currently, I'm practicing coding challenges.
 - 🌱 I'm interested in learning low level languages in the future.
