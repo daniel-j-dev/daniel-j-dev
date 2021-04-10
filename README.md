@@ -2,8 +2,8 @@
 
 I'm a Full Stack Developer who wants to learn more technologies.
 
-- 🔭 Currently, I'm practicing coding challenges.
-- 🌱 I'm interested in learning low level languages in the future.
+- 🔭 Currently, I'm learn more design concepts.
+- 🌱 I'm interested in learning 3D sculpting and adding 3D to sites in the future.
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-software-dev/
 
 ### My Skills
