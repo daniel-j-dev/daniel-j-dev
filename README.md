@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer who wants to learn more technologies.
 
-- 🔭 Currently, I'm learning more design concepts.
+- 🔭 Currently, I'm learning C++ for Unreal Engine.
 - 🌱 I'm interested in working on games in the future.
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-software-dev/
 
