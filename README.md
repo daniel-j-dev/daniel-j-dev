@@ -1,9 +1,9 @@
 ### Welcome
 
-I'm a Full Stack Developer who wants to learn more technologies.
+I'm a Tech Lead who's committed to learning more daily.
 
-- 🔭 Currently, I'm learning C++ for Unreal Engine.
-- 🌱 I'm interested in working on games in the future.
+- 🔭 Currently, I'm learning Rust.
+- 🌱 I'm interested in working on larger projects in the future.
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-software-dev/
 
 ### My Skills
