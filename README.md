@@ -2,7 +2,7 @@
 
 I'm a Tech Lead who's committed to learning more daily.
 
-- 🔭 Currently, I'm learning Rust.
+- 🔭 Currently, I'm learning Rust & Golang.
 - 🌱 I'm interested in working on larger projects in the future.
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-software-dev/
 
@@ -10,7 +10,7 @@ I'm a Tech Lead who's committed to learning more daily.
 
 Backend - Node.js ¥ Knex.js ¥ PostgreSQL </br>
 Frontend - React.js ¥ React Router ¥ useContext ¥ Redux ¥ LessCSS / SCSS ¥ CSS ¥ HTML </br>
-Other - JavaScript ¥ Git / Github ¥ 
+Other - JavaScript ¥ Python ¥ Git / Github ¥ 
 
 <!--
 **daniel-j-dev/daniel-j-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
