@@ -1,10 +1,12 @@
 ### Welcome
 
-I'm a Tech Lead who's committed to learning more daily.
+I'm a Software Engineer who's committed to learning more daily.
 
-- 🔭 Currently, I'm learning Solana smart contract development w/ Rust.
+- 🔭 Currently, I'm diving deeper into game dev w/ Godot.
 - 🌱 I'm interested in working on larger projects in the future.
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-software-dev/
+
+See my personal projects: https://cheddar-colossus-fe7.notion.site/Daniel-Johnson-s-Portfolio-d3fddbea890c44ce85bbce3607a95082
 
 ### My Skills
 
