@@ -2,7 +2,7 @@
 
 I'm a Technical Program Manager (& Software Engineer!) who's committed to learning more daily.
 
-- 🔭 Currently, I'm diving deeper into game dev w/ Godot.
+- 🔭 Currently, I'm diving deeper into the metaverse & game dev w/ Godot.
 - 🌱 I'm interested in working on larger projects in the future.
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-software-dev/
 
