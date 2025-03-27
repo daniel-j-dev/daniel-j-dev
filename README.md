@@ -1,6 +1,6 @@
 ### Welcome
 
-I'm a Software Engineer who's committed to learning more daily.
+I'm an Engineering Manager (& Software Engineer) who's committed to learning more daily.
 
 - 🔭 Currently, I'm diving deeper into the metaverse & game dev w/ Godot.
 - 🌱 I'm interested in working on larger projects in the future.
