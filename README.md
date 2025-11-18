@@ -1,6 +1,6 @@
 ### Welcome
 
-I'm an Engineering Manager (& Software Engineer) who's committed to learning more daily.
+I'm an Engineering Manager @ [OffshoreEasy.com](https://www.offshoreeasy.com/) & I'm committed to learning more daily.
 
 - 🔭 Currently, I'm diving deeper into the metaverse & game dev w/ Godot.
 - 🌱 I'm interested in working on larger projects in the future.
@@ -10,7 +10,7 @@ See my personal projects: https://cheddar-colossus-fe7.notion.site/Daniel-Johnso
 
 ### My Skills
 
-Backend - Node.js ¥ Knex.js ¥ PostgreSQL </br>
+Backend - Go microservices ¥ Node.js ¥ Knex.js ¥ PostgreSQL </br>
 Frontend - Next.js / React.js ¥ React Router ¥ useContext ¥ Redux ¥ LessCSS / SCSS ¥ CSS ¥ HTML </br>
 Other - JavaScript ¥ Python ¥ Git / Github ¥ Blockchain
 
